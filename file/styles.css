@@ -1,0 +1,42 @@
+body{
+	background:yellow;
+	color:black;
+}
+
+a{
+	color:black;
+	text-decoration:none;
+}
+.greenlink:hover{
+	color:red;
+	background:black;
+}
+
+h4{
+	font-family:Arial;
+	font-size:30
+
+}
+h2{
+	font-family:Castellar;
+	font-size:30
+
+}
+h6{
+	font-family:Informal Roman;
+	font-size:25
+	
+}
+
+a:hover{
+	color:green;
+	background:red;
+}
+
+.indent{
+	margin-left:45px
+}
+.gap_below{
+	margin-bottom:1px
+	
+}
